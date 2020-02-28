@@ -1,20 +1,10 @@
-# free-agario-bots
-Free open source agar.io facebook bots, normal and proxy version!
+
 
 ## Change Log
 New version - v2.0.0
 * Bypass recaptcha v3
 * Updated FB files
 * New vanila userscript - potion hack
-
-## Discord
-1. [200bots.ga](http://200bots.ga)
-2. [Free Agar.io Bots](https://discord.gg/SDMNEcJ)
-
-## Usage
-1. [How to get Facebook Token](https://www.youtube.com/watch?v=Sjtb_OHP2tE)
-2. [Video tutorial for Windows](https://youtu.be/qnFnkmkh2VQ)
-
 
 Windows
 -------
@@ -34,7 +24,7 @@ VPS
 -------
 1. I recommend using a Ubuntu 18.04 LTS from DigitalOcean. You can get one for $5/month and you can use this [link](https://m.do.co/c/fa7a805f6e60) to get $50 on the platform
 2. Run `sudo apt install git` command
-3. Run `git clone https://github.com/GeniusXD/free-agario-fb-bots.git` command
+3. Run `git clone https://github.com/DZ-Chike/1_test` command
 4. Run `cd free-agario-bots` command
 5. Run `sudo chmod +x install.sh` command
 6. Run `sudo ./install.sh` command
